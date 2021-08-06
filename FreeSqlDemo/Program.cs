@@ -6,6 +6,7 @@ namespace FreeSqlDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("github test");
             Console.WriteLine("Hello World!");
         }
     }
